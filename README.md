@@ -8,7 +8,7 @@ I turn complex, messy data into clear insights that drive smarter decisions and 
 
 ### About Me
 
-I'm a data analyst with 7 years of teaching experience and a clinical healthcare background, transitioning into data-driven decision making. My classroom experience built strong skills in communication, stakeholder management, and translating complex information for different audiences, all of which directly support effective data storytelling. I also bring domain expertise from working as a Patient Care Technician in surgery and a Dental Assistant.
+I'm a data analyst with 6+ years of teaching experience and a clinical healthcare background, transitioning into data-driven decision making. My classroom experience built strong skills in communication, stakeholder management, and translating complex information for different audiences, all of which directly support effective data storytelling. I also bring domain expertise from working as a Patient Care Technician in surgery and a Dental Assistant.
 
 I recently completed the **CareerFoundry Data Analytics Program** and I'm actively seeking **Business Intelligence Analyst** roles in HealthTech, healthcare operations, and supply chain analytics.
 
