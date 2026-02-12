@@ -35,7 +35,7 @@ I recently completed the **CareerFoundry Data Analytics Program** and I'm active
 
 ### Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/jesstduong/)
+- [LinkedIn](https://www.linkedin.com/in/jess-duong/)
 - [Portfolio](https://jess-duong.github.io/)
 - [Tableau Public](https://public.tableau.com/app/profile/jess.duong/vizzes)
 - Email: duong.t.jess@gmail.com
