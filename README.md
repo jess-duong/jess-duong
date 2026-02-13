@@ -8,7 +8,7 @@ I turn complex, messy data into clear insights that drive smarter decisions and 
 
 ### About Me
 
-I'm a former educator and healthcare professional turned Data Analyst. My background isn't typical: I've worked as a Surgical Care Technician and Dental Assistant, and spent 7 years tracking performance data and presenting to stakeholders in international classrooms. I use SQL, Python, Tableau, and Excel to turn messy data into clear insights that help teams make better decisions.
+I'm a former educator and healthcare professional turned Data Analyst. My background isn't typical: I've worked as a Surgical Care Technician and Dental Assistant, and spent 8 years tracking performance data and presenting to stakeholders in international classrooms. I use SQL, Python, Tableau, and Excel to turn messy data into clear insights that help teams make better decisions.
 
 My career path has taken me from operating rooms in Austin, TX to international classrooms in Shanghai and Guangzhou, China, and now into data analytics. What connects all of it is a focus on precision, problem-solving, and using data to improve outcomes for real people.
 
