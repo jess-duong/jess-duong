@@ -2,17 +2,17 @@
 
 **Data Analyst** | Healthcare & Operations Analytics
 
-8 years of making high-stakes data clear, from operating rooms to classrooms to dashboards.
+8+ years of making high-stakes data clear, from operating rooms to classrooms to dashboards.
 
 ---
 
 ### About Me
 
-I'm a former educator and healthcare professional turned Data Analyst. My background isn't typical: I've worked as a Surgical Care Technician and Dental Assistant, and spent 8 years tracking performance data and presenting to stakeholders in international classrooms. I use SQL, Python, Tableau, and Excel to turn messy data into clear insights that help teams make better decisions.
+Certified Data Analyst with 8 years of experience tracking KPIs, segmenting performance data, and presenting findings to leadership in high-stakes, regulated environments. My background as a Surgical Care Technician, Dental Assistant, and Educator built deep expertise in compliance workflows, sensitive data handling, and cross-functional communication.
 
-My career path has taken me from operating rooms in Austin, TX to international classrooms in Shanghai and Guangzhou, China, and now into data analytics. What connects all of it is a focus on precision, problem-solving, and using data to improve outcomes for real people.
+My career path has taken me from operating rooms in Austin, TX to international classrooms in Shanghai and Guangzhou, China, and now into data analytics. What connects all of it is precision, problem-solving, and using data to improve outcomes for real people.
 
-I am completing the **CareerFoundry Data Analytics Program** and I'm actively seeking **Business Intelligence Analyst** roles in HealthTech, healthcare operations, and education.
+I'm completing the CareerFoundry Data Analytics Program and actively seeking Data Analyst roles in HealthTech, healthcare operations, and education in New York City.
 
 ---
 
