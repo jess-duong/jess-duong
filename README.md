@@ -2,7 +2,7 @@
 
 **Data Analyst** | Healthcare & Operations Analytics
 
-I turn complex, messy data into clear insights that drive smarter decisions and measurable outcomes.
+8 years of making high-stakes data clear, from operating rooms to classrooms to dashboards.
 
 ---
 
@@ -12,7 +12,16 @@ I'm a former educator and healthcare professional turned Data Analyst. My backgr
 
 My career path has taken me from operating rooms in Austin, TX to international classrooms in Shanghai and Guangzhou, China, and now into data analytics. What connects all of it is a focus on precision, problem-solving, and using data to improve outcomes for real people.
 
-I am completing the **CareerFoundry Data Analytics Program** and I'm actively seeking **Business Intelligence Analyst** roles in HealthTech, healthcare operations, supply chain analytics, and education.
+I am completing the **CareerFoundry Data Analytics Program** and I'm actively seeking **Business Intelligence Analyst** roles in HealthTech, healthcare operations, and education.
+
+---
+
+### Tools & Technologies
+
+**Languages:** SQL (PostgreSQL) | Python (pandas, NumPy, matplotlib, seaborn)  
+**Visualization:** Tableau | Excel  
+**Other:** Jupyter Notebook | GitHub | Data Storytelling
+
 
 ---
 
